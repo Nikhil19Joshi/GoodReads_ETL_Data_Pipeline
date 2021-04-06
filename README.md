@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/68136798/113654660-eef39d80-965d-11eb-89df-9ddd98c23a61.png)
+
+
 # Built an end-to-end ETL pipeline to capture and process real-time books data
 
 ## Tools Used: Python, Spark, AWS, Redshift, Airflow, PostgreSQL  
